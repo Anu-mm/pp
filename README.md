@@ -15,16 +15,16 @@
 ## Screenshots
 
 - Sign Up
-  ![Sign-Up](./ff/signup.PNG)
+  ![Sign-Up](./images/signup.PNG)
 
 - Sign In
-  ![Sign-In](./ff/login.PNG)
+  ![Sign-In](./images/login.PNG)
 
 - Student Page
-  ![Student-Page](./ff/studentlist.PNG)
+  ![Student-Page](./images/studentlist.PNG)
 
 - Interview Page
-  ![Interview-Page](./ff/companylist.PNG)
+  ![Interview-Page](./images/companylist.PNG)
 
 - Add student
   ![Add-Student](./ff/AddStudent.PNG)
