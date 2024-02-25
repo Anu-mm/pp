@@ -27,10 +27,10 @@
   ![Interview-Page](./images/companylist.PNG)
 
 - Add student
-  ![Add-Student](./ff/AddStudent.PNG)
+  ![Add-Student](./images/AddStudent.PNG)
 
 - Schedule Interview
-  ![Interview](./ff/InterviewSchedule.PNG)
+  ![Interview](./images/InterviewSchedule.PNG)
 
 ## Setup
 
